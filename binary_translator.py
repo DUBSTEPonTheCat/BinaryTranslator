@@ -2,7 +2,7 @@ from time import *
 import string
 import os
 import sys
-from easygui import *
+from easygui import * #fist me
 
 
 
